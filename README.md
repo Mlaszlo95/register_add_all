@@ -13,7 +13,7 @@ Telepísd fel a tampermonkey-t következő linkekről:<br /><br />
 
 ## Script telepítése
 Tampermonkey telepítése után egy ilyen ablaknak kell felugrania amikor rákattintasz a gombra. Majd válaszd ki az Install gombot:<br />
-![Test Image 3](https://i.imgur.com/PQpteeE.png)<br /><br />
+![Test Image 3](https://i.imgur.com/PQpteeE.png)<br />
 
 Telepítés után a script csak nálad futtnak le a saját böngésződben, máshol nem jelennek meg.
 
