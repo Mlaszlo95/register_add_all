@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         Add all rights and reset all rights button
 // @namespace    https://github.com/Mlaszlo95/register_add_all/
-// @version      0.1
-// @description  try to take over the world!
+// @version      0.9
+// @description  Ez a script hozzá add a reigster felhasználó kezelőjébe egy gombot amivel teljes jogot lehet hozzáadni illetve el lehet venni
 // @author       You
 // @match        https://10.2.20.23/dpdregister/www/user_rights.php?userid=*
 // @match        https://10.2.20.38/dpdregister/www/user_rights.php?userid=*
+// @match        https://register.dpd.hu/dpdregister/www/user_rights.php?userid=*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // @require      https://www.github.com/Mlaszlo95/register_add_all/raw/main/all_scripts/reset_add_right_button.js
-// @run-at       document-start
 // ==/UserScript==
 
 (function() {
