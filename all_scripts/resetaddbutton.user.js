@@ -14,8 +14,9 @@
 
 (function() {
     'use strict';
-    var mainBody = document.getElementsByName('formmain')[0]
-    if(typeof document.getElementById('customFieldDpDIT') === "undefined"){
+    var AppendElement = document.getElementById('customFieldDpDIT');
+
+    if(typeof AppendElement === "undefined" || AppendElement === null){
           const newDiv = document.createElement("div")
           newDiv.classList.add("sordiv");
           newDiv.setAttribute('id','customFieldDpDIT')
