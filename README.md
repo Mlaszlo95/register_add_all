@@ -14,6 +14,6 @@ Telepísd fel a tampermonkey-t következő linkekről:<br /><br />
 ## Script telepítése
 Tampermonkey telepítése után egy ilyen ablaknak kell feltünnie, értelem szerint ott Install gomb:<br />
 ![Test Image 3](https://i.imgur.com/PQpteeE.png)<br /><br />
-Következő scriptek: <br />
+<b>Következő scriptek: </b><br />
 [add_remove_right_button](https://github.com/Mlaszlo95/register_add_all/raw/main/all_scripts/resetaddbutton.user.js) - Elhelyez egy gombot a register felhasználó kezelőjében amivel minden jogot hozzá lehet adni egy felhasználóhoz, illetve el lehet venni.<br />
 
