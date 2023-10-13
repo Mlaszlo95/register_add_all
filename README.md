@@ -22,5 +22,5 @@ Telepítés után a script csak nálad futtnak le a saját böngésződben, más
 
 <strong>Következő scriptek: </strong><br />
 [add_remove_right_button](https://github.com/Mlaszlo95/register_add_all/raw/main/all_scripts/resetaddbutton.user.js) - Elhelyez egy gombot a register felhasználó kezelőjében amivel minden jogot hozzá lehet adni egy felhasználóhoz, illetve el lehet venni.<br />
-[add_copy_paste_userRight_button](https://github.com/Mlaszlo95/register_add_all/raw/main/all_scripts/copypasteuserright.user.js) - Elhelyez egy gombot a reggiszter felhasználó kezelőjében amivel egy felhasználó jogát lehet másolni és beilleszteni.
-
+[add_copy_paste_userRight_button](https://github.com/Mlaszlo95/register_add_all/raw/main/all_scripts/copypasteuserright.user.js) - Elhelyez egy gombot a reggiszter felhasználó kezelőjében amivel egy felhasználó jogát lehet másolni és beilleszteni.<br />
+[add_access_level_to_menu_text](https://github.com/Mlaszlo95/register_add_all/raw/main/all_scripts/registerrightaccess.user.js) - Ezzel a scriptel hozzáadja a hozzáférési szintek számait, a regiszter menüihez. 
