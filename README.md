@@ -1,4 +1,4 @@
-# regiszterhez tampermonkey scriptek
+# Regiszterhez tampermonkey scriptek
 
 Sziasztok. 
 Ezzel a scriptel a regiszterbe hozzátudtok adni a felhasználó kezeléshez egy minden jog megadás és minden jog elvételi gombot. 
