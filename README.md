@@ -13,4 +13,4 @@ Telepísd fel a tampermonkey-t következő linkekről:<br /><br />
 
 ## Script telepítése
 Következő scriptek: <br />
-[add_remove_right_button](/https://github.com/Mlaszlo95/register_add_all/blob/main/all_scripts/reset_add_right_button.js/) - Elhelyez egy gombot a register feladat kezelőjében amivel minden jogot hozzá lehet adni, illetve el lehet venni.<br />
+[add_remove_right_button](https://raw.githubusercontent.com/Mlaszlo95/register_add_all/main/all_scripts/reset_add_right_button.js) - Elhelyez egy gombot a register feladat kezelőjében amivel minden jogot hozzá lehet adni, illetve el lehet venni.<br />
