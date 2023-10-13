@@ -11,3 +11,7 @@ Telepísd fel a tampermonkey-t következő linkekről:<br /><br />
  [chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) <br />
  <br />
 
+## Script telepítése
+<br /b>
+Következő scriptek:<br /b>
+[reset_add_all_right_button](/all_scripts/reset_add_right_button.js)
