@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Add all rights and reset all rights button
 // @namespace    https://github.com/Mlaszlo95/register_add_all/
-// @version      0.9
+// @version      1.0
 // @description  Ez a script hozzá add a reigster felhasználó kezelőjébe egy gombot amivel teljes jogot lehet hozzáadni illetve el lehet venni
 // @author       You
 // @match        https://10.2.20.23/dpdregister/www/user_rights.php?userid=*
@@ -15,16 +15,20 @@
 (function() {
     'use strict';
     var mainBody = document.getElementsByName('formmain')[0]
+    if(typeof document.getELementById('customFieldDpDIT') === "undefined"){
+          const newDiv = document.createElement("div")
+          newDiv.classList.add("sordiv");
+          newDiv.setAttribute('id','customFieldDpDIT')
+          insertAfter(newDiv,document.querySelectorAll('.sordiv')[2])
+    }
 
-    const newDiv = document.createElement("div")
-    newDiv.classList.add("sordiv");
-    newDiv.setAttribute('id','customFieldDpDIT')
-    insertAfter(newDiv,document.querySelectorAll('.sordiv')[2])
 
     var CustomMenu = document.getElementById('customFieldDpDIT')
+
+
     var newButton = addNewButton('customerAddResetButton',"Add all right","5px");
     newButton.addEventListener("click", addAllRankToUserOrRemoveIt)
-    newDiv.appendChild(newButton)
+    CustomMenu.appendChild(newButton)
     console.log("Add/Reset right button set")
 })();
 
@@ -34,7 +38,6 @@ function addNewButton(buttonID,buttonText,margin){
    newButton.setAttribute('id', buttonID);
    newButton.innerHTML = buttonText
    newButton.style.margin = margin
-
 
    return newButton
 }
