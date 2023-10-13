@@ -9,6 +9,7 @@
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // @require      https://www.github.com/Mlaszlo95/register_add_all/raw/main/all_scripts/reset_add_right_button.js
+// @run-at       document-start
 // ==/UserScript==
 
 (function() {
