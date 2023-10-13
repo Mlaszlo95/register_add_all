@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Register Copy User right button
 // @namespace    http://tampermonkey.net/
-// @version      0.8
-// @description  Ezzel a telepítéssel megjelennik két gomb a copy és paste. Azonban telepíteni kell hozzá a addresetButton scriptet is
+// @version      0.9
+// @description  Ez a script hozzá add két gombot a regiszter felhasználó kezeléséhez. Egy másolás felhasználó hozzáférését és egy beillesztését.
 // @author       Megyeri László
 // @match        https://10.2.20.23/dpdregister/www/user_rights.php?userid=*
+// @match        https://register.dpd.hu/dpdregister/www/user_rights.php?userid=*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        GM_getValue
 // @grant        GM_setValue
