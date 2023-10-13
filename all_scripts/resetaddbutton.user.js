@@ -3,7 +3,7 @@
 // @namespace    https://github.com/Mlaszlo95/register_add_all/
 // @version      1.0
 // @description  Ez a script hozzá add a reigster felhasználó kezelőjébe egy gombot amivel teljes jogot lehet hozzáadni illetve el lehet venni
-// @author       You
+// @author       Megyeri László
 // @match        https://10.2.20.23/dpdregister/www/user_rights.php?userid=*
 // @match        https://10.2.20.38/dpdregister/www/user_rights.php?userid=*
 // @match        https://register.dpd.hu/dpdregister/www/user_rights.php?userid=*
