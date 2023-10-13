@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Register Copy User right button
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.01
 // @description  Ez a script hozzá add két gombot a regiszter felhasználó kezeléséhez. Egy másolás felhasználó hozzáférését és egy beillesztését.
 // @author       Megyeri László
 // @match        https://10.2.20.23/dpdregister/www/user_rights.php?userid=*
@@ -52,9 +52,9 @@ function addNewButton(buttonID,buttonText,margin){
 }
 
 function CopyUserRightTask(){
-    var right = getUserRight()
+    var rights = getUserRight()
     //gmSet("UserRightForCopyScript", right)
-    GM_setValue("UserRightForCopyScript", right);
+    GM_setValue("UserRightForCopyScript", rights);
     //right.forEach(function(e){console.log(e)});
 }
 
@@ -63,7 +63,7 @@ function PasteUserRightTask(){
 
     setEmptyRights();
 
-   if(typeof right != "undefined"){
+   if(typeof rights != "undefined"){
       rights.forEach(function(e){
           var element = document.getElementById(e)
 
@@ -92,6 +92,8 @@ function setEmptyRights(){
 
 function getUserRight(){
     var right = [];
+
+    //console.log("teszt");
 
        for(var i = 1;i<150;i++){
             var element = document.getElementById(i)
