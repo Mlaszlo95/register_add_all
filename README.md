@@ -1,9 +1,9 @@
 # Regiszterhez tampermonkey scriptek
 
-Sziasztok.&nbsp;
+Sziasztok. &nbsp;<Enter>
 Ezzel a scriptel a regiszterbe hozzátudtok adni a felhasználó kezeléshez egy minden jog megadás és minden jog elvételi gombot. 
 
-## Script telepítés tampermonkeyba
+## Tampermonkey telepítése
 
 Következő képen lehet telepíteni:
 1 - telepísd fel a tampermonkey-t következő linkekről:&nbsp;
