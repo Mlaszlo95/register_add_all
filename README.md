@@ -12,6 +12,6 @@ Telepísd fel a tampermonkey-t következő linkekről:<br /><br />
  <br />
 
 ## Script telepítése
-<br /b>
-Következő scriptek:<br /b>
-[reset_add_all_right_button](/all_scripts/reset_add_right_button.js)
+ <br />
+Következő scriptek: <br />
+[reset_add_all_right_button](/all_scripts/reset_add_right_button.js) - Elhelyez egy gombot a register feladat kezelőjében amivel minden jogot hozzá lehet adni, illetve el lehet venni.<br />
