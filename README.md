@@ -7,8 +7,8 @@ Ezzel a scriptel a regiszterbe hozzátudtok adni a felhasználó kezeléshez egy
 
 Következő képen lehet telepíteni:
 1 - telepísd fel a tampermonkey-t következő linkekről:
- *[opera] - (/https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
-  *[edge] - https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd
-*[chrome] - https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+ [opera](/https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
+  [edge](/https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
+[chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
 2 - 
