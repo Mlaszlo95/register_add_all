@@ -10,6 +10,7 @@ Telepísd fel a tampermonkey-t következő linkekről:<br /><br />
  [edge](/https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) <br />
  [chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) <br />
  <br />
+ [tesz](/https://github.com/Mlaszlo95/register_add_all/blob/main/all_scripts/reset_add_right_button.js/)
 
 ## Script telepítése
 Következő scriptek: <br />
